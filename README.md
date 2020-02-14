@@ -1,4 +1,6 @@
 # Eclipse-GitHubTest
 
-<img src="C:\Users\choiyewon\Desktop\github_ppt\img.jpg" width="450px" height="300px" title="목차1" alt="index"></img><br/>
-<img src="C:\Users\choiyewon\Desktop\github_ppt\img2.jpg" width="450px" height="300px" title="목차2" alt="index2"></img><br/>
+![img](https://user-images.githubusercontent.com/49062985/74541961-ffdade80-4f85-11ea-8070-dfc1d81ac84e.png)
+
+![img2](https://user-images.githubusercontent.com/49062985/74542017-15500880-4f86-11ea-8a22-d4004b9edaf2.png)
+
