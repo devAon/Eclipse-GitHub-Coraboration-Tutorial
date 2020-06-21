@@ -73,3 +73,35 @@
 
 ![](https://images.velog.io/images/aonee/post/1ad188ef-e2c5-45e4-b9ba-ea7b9b286924/image.png)
 
+
+
+
+<br>
+<br>
+
+## 🐥 [초심자를 위한 Github 협업방법(4)-명령어](https://velog.io/@aonee/Eclipse%EB%A1%9C-Github-%ED%98%91%EC%97%85%ED%95%98%EA%B8%B03-%EB%AA%85%EB%A0%B9%EC%96%B4)
+
+![](https://images.velog.io/images/aonee/post/0d69c0a7-d475-46d0-aaff-a2a25f7b5c25/image.png)
+
+## 명령어 목차
+1. Add  <br>
+2. Commit  <br>
+3. Push  <br>
+4. 실습  <br>
+
+
+![](https://images.velog.io/images/aonee/post/257e9062-95a3-4bea-9d5a-6e55b9eed3be/image.png)
+
+
+![](https://images.velog.io/images/aonee/post/b8057aec-2f3a-4331-ac4c-424c82357a07/image.png)
+
+![](https://images.velog.io/images/aonee/post/10676231-0fdd-43a8-b731-a03dec4c6100/image.png)
+
+![](https://images.velog.io/images/aonee/post/95b37750-e9c2-4ed5-be40-b14a3b20bbde/image.png)
+
+![](https://images.velog.io/images/aonee/post/4d6fd395-56bb-4cb2-8dd9-8d9ccad6b6d0/image.png)
+
+![](https://images.velog.io/images/aonee/post/37588082-e5b1-4ccb-b99f-b3ad06ac836f/image.png)
+
+![](https://images.velog.io/images/aonee/post/f4073a1e-4ac3-47f1-989d-f1eb288f8798/image.png)
+
