@@ -269,3 +269,104 @@
 
 ![](https://images.velog.io/images/aonee/post/a4aeab8c-f2bb-44e0-b3b4-97659a7ace21/image.png)
 
+
+
+
+
+
+<br>
+<br>
+
+## 🐥 [초심자를 위한 Github 협업방법(9)-Eclipse github(4)-협업](https://velog.io/@aonee/%EC%B4%88%EC%8B%AC%EC%9E%90%EB%A5%BC-%EC%9C%84%ED%95%9C-Github-%ED%98%91%EC%97%85%EB%B0%A9%EB%B2%959-Eclipse-github4-%ED%98%91%EC%97%85)
+
+## Eclipse github 목차
+### 협업
+1. 협업방식 적용 이유  <br>
+2. 장점
+
+### 협업(공통) -반복
+1. Issue  <br>
+2. Branch 생성 및 작업
+3. Commit & push
+4. Pull request (=PR)
+5. 코드리뷰
+6. Merge
+7. Checkout branch develop
+8. Pull
+9. 작업이 끝난 Branch 삭제
+10. 정리
+
+![](https://images.velog.io/images/aonee/post/8ffa1a7e-c878-4c7d-8670-42f18e558ca9/image.png)
+
+![](https://images.velog.io/images/aonee/post/d63b0df7-0edb-4ae9-8b77-e0011d9c7d41/image.png)
+
+![](https://images.velog.io/images/aonee/post/a18f3802-5678-4163-9f3c-7ce7f09d0b84/image.png)
+
+![](https://images.velog.io/images/aonee/post/3ec4c42d-6478-48b8-aec8-4b351f775751/image.png)
+
+![](https://images.velog.io/images/aonee/post/9ffa4dfe-6944-494f-a8b4-d06842426028/image.png)
+
+![](https://images.velog.io/images/aonee/post/4469be0c-7b70-4042-8848-5d9070c8c173/image.png)
+
+![](https://images.velog.io/images/aonee/post/a09e3c29-0953-41f0-b601-d84100c71901/image.png)
+
+![](https://images.velog.io/images/aonee/post/b2bf7b9d-d179-4f52-8297-9327391d2f05/image.png)
+
+![](https://images.velog.io/images/aonee/post/bbdfad9b-a7a2-4175-9e51-74100da0857e/image.png)
+
+![](https://images.velog.io/images/aonee/post/a51a949c-23c6-49f6-848b-3effa1e107b0/image.png)
+
+
+
+![](https://images.velog.io/images/aonee/post/8fba4ee8-0e25-4d5d-a312-426a13a67184/image.png)
+
+![](https://images.velog.io/images/aonee/post/a8511d1a-3b6a-4c3c-aea9-0c42608adf86/image.png)
+
+![](https://images.velog.io/images/aonee/post/e54c3779-78f8-4cb7-8a3e-2e5a66d52314/image.png)
+
+![](https://images.velog.io/images/aonee/post/d579ce18-6c45-4963-ab0c-a55a111e9bb3/image.png)
+
+![](https://images.velog.io/images/aonee/post/a4c8f61e-6813-4a1b-adf4-f18dd7778697/image.png)
+
+
+![](https://images.velog.io/images/aonee/post/9853ac2a-23f3-45ab-b5ea-13828b8cbef4/image.png)
+
+![](https://images.velog.io/images/aonee/post/8820b225-324c-4bc2-b5b4-f5eadcd32c50/image.png)
+
+![](https://images.velog.io/images/aonee/post/58b7014f-d676-405a-a6d8-6c9fb0dcb236/image.png)
+
+![](https://images.velog.io/images/aonee/post/e1e5d200-040a-47d8-af43-dd147b8d5ff9/image.png)
+
+![](https://images.velog.io/images/aonee/post/a1ad3dbc-5a6a-479f-8ada-2a09fe67c72b/image.png)
+
+![](https://images.velog.io/images/aonee/post/1165d760-ab90-4c3c-a5ba-cc5fd1f89627/image.png)
+
+![](https://images.velog.io/images/aonee/post/5c54b0ca-28f5-4528-9950-fe51bf2570b0/image.png)
+
+![](https://images.velog.io/images/aonee/post/2f4bfbd0-8055-43ea-98bc-eb6abef5f158/image.png)
+
+![](https://images.velog.io/images/aonee/post/5b125773-c901-46b8-9ced-8dfdd98e0834/image.png)
+
+![](https://images.velog.io/images/aonee/post/7a59fa79-8ee8-4626-a96e-534177f6a91e/image.png)
+
+![](https://images.velog.io/images/aonee/post/600e7649-4103-4dc6-8213-628abc80d7f5/image.png)
+
+![](https://images.velog.io/images/aonee/post/2970a86e-44b8-4726-bd14-de9f1e478d9c/image.png)
+
+![](https://images.velog.io/images/aonee/post/0c5e0dfb-4c2a-4168-ace6-bf7e2288ef79/image.png)
+
+![](https://images.velog.io/images/aonee/post/0cbdf8d6-cfe5-47da-8244-07e7df0008da/image.png)
+
+![](https://images.velog.io/images/aonee/post/a33b6b4f-52e7-49b8-aa16-649e71afbd22/image.png)
+
+![](https://images.velog.io/images/aonee/post/36183b49-5520-4bc5-b827-97cb9ce8eac1/image.png)
+
+![](https://images.velog.io/images/aonee/post/28fdb30a-3388-4207-861b-a6eb94bd776a/image.png)
+
+![](https://images.velog.io/images/aonee/post/810545e4-2890-4302-a8ea-38a9a00ac215/image.png)
+
+![](https://images.velog.io/images/aonee/post/6b645a63-dd76-4951-88e1-ea2eb3f0553d/image.png)
+
+![](https://images.velog.io/images/aonee/post/11cf3e3d-c9f2-4f25-acf0-1d1d37056d29/image.png)
+
+![](https://images.velog.io/images/aonee/post/5f751d7c-295c-4d15-a92a-65333159883c/image.png)
