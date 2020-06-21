@@ -105,3 +105,26 @@
 
 ![](https://images.velog.io/images/aonee/post/f4073a1e-4ac3-47f1-989d-f1eb288f8798/image.png)
 
+
+
+
+
+<br>
+<br>
+
+## 🐥 [초심자를 위한 Github 협업방법(5)-Git Flow](https://velog.io/@aonee/%EC%B4%88%EC%8B%AC%EC%9E%90%EB%A5%BC-%EC%9C%84%ED%95%9C-Github-%ED%98%91%EC%97%85%EB%B0%A9%EB%B2%955-Git-Flow)
+
+
+## Git Flow 목차
+**1. Branch란**  <br>
+**2. Git Flow란**  <br>
+
+![](https://images.velog.io/images/aonee/post/43582b05-1fed-4362-8ee0-1b5f0c7e0d30/image.png)
+
+![](https://images.velog.io/images/aonee/post/d539fd7e-a46a-47d7-8e69-e7210b2e7ea3/image.png)
+
+![](https://images.velog.io/images/aonee/post/1fac1d68-39af-4135-9983-429ce22b6323/image.png)
+
+![](https://images.velog.io/images/aonee/post/487eb202-a0ea-4bd7-9f4c-d51d2a0d4092/image.png)
+
+![](https://images.velog.io/images/aonee/post/53c793e1-0b9a-4ee6-9469-d95eba4f9bd3/image.png)
