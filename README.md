@@ -232,3 +232,40 @@
 
 
 
+
+
+<br>
+<br>
+
+## 🐥 [초심자를 위한 Github 협업방법(8)-Eclipse github(3)-팀원](https://velog.io/@aonee/%EC%B4%88%EC%8B%AC%EC%9E%90%EB%A5%BC-%EC%9C%84%ED%95%9C-Github-%ED%98%91%EC%97%85%EB%B0%A9%EB%B2%956-Eclipse-github3-%ED%8C%80%EC%9B%90)
+
+
+## Eclipse github 목차
+### 팀원
+1. Clone  <br>
+2. Fork (선택사항)  <br>
+3. e-mail에서 팀 권한 수락  <br>
+![](https://images.velog.io/images/aonee/post/1d144ccb-3869-4efd-8839-013d07c35a66/image.png)
+
+![](https://images.velog.io/images/aonee/post/e421522a-46ba-4bed-bdb0-64a578fe8692/image.png)
+
+![](https://images.velog.io/images/aonee/post/aafebc0d-9b51-4912-a194-e4b829605a39/image.png)
+
+![](https://images.velog.io/images/aonee/post/aecfc753-f577-4cdb-b7ec-01444b092852/image.png)
+
+![](https://images.velog.io/images/aonee/post/c995a312-bdf0-48eb-8c36-8259f7eef77d/image.png)
+
+![](https://images.velog.io/images/aonee/post/298abaed-f844-42dc-b9ca-369dbbec5494/image.png)
+
+![](https://images.velog.io/images/aonee/post/1b24aefd-7849-4358-bbbb-dd67435a6bed/image.png)
+
+![](https://images.velog.io/images/aonee/post/3b13693a-7182-4792-98cf-19d489b9425f/image.png)
+
+![](https://images.velog.io/images/aonee/post/0a4d1fe2-14f3-41c8-babb-8502e0539474/image.png)
+
+![](https://images.velog.io/images/aonee/post/1ef71a01-01a4-4543-a5c8-e24ec304599a/image.png)
+
+![](https://images.velog.io/images/aonee/post/8fc264e3-58f3-483b-92b6-4c1d7e48938c/image.png)
+
+![](https://images.velog.io/images/aonee/post/a4aeab8c-f2bb-44e0-b3b4-97659a7ace21/image.png)
+
