@@ -1,4 +1,4 @@
-# Eclipse-GitHubTest
+# 초심자를 위한 Github 협업 방법 튜토리얼 (with Eclipse)
 
 🐥 [초심자를 위한 Github 협업방법(1)-목차](https://velog.io/@aonee/Eclipse%EB%A1%9C-Github-%ED%98%91%EC%97%85%ED%95%98%EA%B8%B0-1-Git-%EC%9D%B4%EB%9E%80)
 
