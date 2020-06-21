@@ -116,8 +116,8 @@
 
 
 ## Git Flow 목차
-**1. Branch란**  <br>
-**2. Git Flow란**  <br>
+1. Branch란  <br>
+2. Git Flow란* <br>
 
 ![](https://images.velog.io/images/aonee/post/43582b05-1fed-4362-8ee0-1b5f0c7e0d30/image.png)
 
@@ -128,3 +128,28 @@
 ![](https://images.velog.io/images/aonee/post/487eb202-a0ea-4bd7-9f4c-d51d2a0d4092/image.png)
 
 ![](https://images.velog.io/images/aonee/post/53c793e1-0b9a-4ee6-9469-d95eba4f9bd3/image.png)
+
+
+
+
+
+<br>
+<br>
+
+## 🐥 [초심자를 위한 Github 협업방법(6)-Eclipse github(1)-준비](https://velog.io/@aonee/%EC%B4%88%EC%8B%AC%EC%9E%90%EB%A5%BC-%EC%9C%84%ED%95%9C-Github-%ED%98%91%EC%97%85%EB%B0%A9%EB%B2%956-Eclipse-github-%EC%A4%80%EB%B9%84)
+
+## Eclipse github 목차
+1. 준비  <br>
+2. Egit설치  <br>
+
+![](https://images.velog.io/images/aonee/post/1d144ccb-3869-4efd-8839-013d07c35a66/image.png)
+
+
+![](https://images.velog.io/images/aonee/post/830215a0-32b7-40a7-a33d-c15eefc626fc/image.png)
+
+![](https://images.velog.io/images/aonee/post/410c0489-b53c-4ec1-bb24-8037701a8a4b/image.png)
+
+![](https://images.velog.io/images/aonee/post/b432bd3c-6166-4b65-b4d2-77570c5d9680/image.png)
+
+![](https://images.velog.io/images/aonee/post/0a32df8f-f3d5-4abe-a8ce-f3d1a04c303f/image.png)
+
