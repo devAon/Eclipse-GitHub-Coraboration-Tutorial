@@ -370,3 +370,42 @@
 ![](https://images.velog.io/images/aonee/post/11cf3e3d-c9f2-4f25-acf0-1d1d37056d29/image.png)
 
 ![](https://images.velog.io/images/aonee/post/5f751d7c-295c-4d15-a92a-65333159883c/image.png)
+
+
+
+
+
+
+
+<br>
+<br>
+
+## 🐥 [초심자를 위한 Github 협업방법(10)-주의사항](https://velog.io/@aonee/%EC%B4%88%EC%8B%AC%EC%9E%90%EB%A5%BC-%EC%9C%84%ED%95%9C-Github-%ED%98%91%EC%97%85%EB%B0%A9%EB%B2%9510-%EC%A3%BC%EC%9D%98%EC%82%AC%ED%95%AD)
+
+## 주의사항 목차
+1. Pull 오류해결 <br>
+2. Merge 충돌해결
+
+![](https://images.velog.io/images/aonee/post/44d3a0ac-d2c6-48de-8a0a-97896651abfe/image.png)
+
+![](https://images.velog.io/images/aonee/post/88ccaed6-ef97-4b5c-be14-4fd053700ebd/image.png)
+
+![](https://images.velog.io/images/aonee/post/5dd522ee-a312-41d6-820a-c489a6558ccb/image.png)
+
+![](https://images.velog.io/images/aonee/post/d82a64e3-5e9e-437a-9029-8d0504536ad1/image.png)
+
+![](https://images.velog.io/images/aonee/post/98d6ebb5-bdcb-4cfc-a95a-86ee9a99dd5b/image.png)
+
+![](https://images.velog.io/images/aonee/post/c4f0be4b-9f9a-47f0-8b97-ba316aa9e57b/image.png)
+
+![](https://images.velog.io/images/aonee/post/c9be12e5-7418-43ea-ae53-c9c18f923cca/image.png)
+
+![](https://images.velog.io/images/aonee/post/05f2433a-d55f-4547-b6c2-2cba108b1faa/image.png)
+
+![](https://images.velog.io/images/aonee/post/034efa07-a9db-419a-86a3-492952413bac/image.png)
+
+![](https://images.velog.io/images/aonee/post/d322147b-552d-4d4c-bfe6-81673ff5c397/image.png)
+
+
+
+
