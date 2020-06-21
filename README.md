@@ -1,5 +1,18 @@
 # 초심자를 위한 Github 협업 방법 튜토리얼 (with Eclipse)
 
+<br>
+
+## 📌 동덕여자대학교 Github 기초부터 협업방법 강의자료 제작
+
+협업을 할 때 사용했던 방식을 꾸준히 공부한 결과  <br>
+배운 내용을 기반으로 팀장이 되어 처음 Github을 사용하는 팀원들을 이끌 수 있었다.  <br>
+ <br>
+그리고 교수님의 제안으로 Github 관련 보충강의자료 ppt를 제작할 좋은 기회를 얻게 되었다.  <br>
+해당 자료는 Github이 생소한 초보자를 생각하며 만든 자료이기에 최대한 쉽게 작성했다.  <br>
+최근 Github를 시작하는 초보자에게 도움이 되었으면 하는 바람이다.  <br>
+
+<br>
+
 ## 🐥 [초심자를 위한 Github 협업방법(1)-목차](https://velog.io/@aonee/Eclipse%EB%A1%9C-Github-%ED%98%91%EC%97%85%ED%95%98%EA%B8%B0-1-Git-%EC%9D%B4%EB%9E%80)
 
 ![](https://images.velog.io/images/aonee/post/89c422f6-81a2-4715-9f03-da316d7d23d1/image.png)
